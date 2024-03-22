@@ -38,7 +38,8 @@ Clinic On aims to:
 With Clinic On - Hospital Management Platform, we're not just solving problems; we're shaping the future of healthcare management, one innovative solution at a time. Welcome to the future of hospital management with Clinic On!
 
 
-# Some Visuals
+# Some Visuals  :
+
 
 
 
