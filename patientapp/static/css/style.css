@@ -1,0 +1,145 @@
+/* :: 6.0 Book An Appoinment Area */
+.align-items-stretch {
+  -webkit-box-align: stretch;
+  -ms-flex-align: stretch;
+  -ms-grid-row-align: stretch;
+  align-items: stretch;
+}
+
+/* .Appoinmentbtn {
+  background-color: #006cff;
+  background:-webkit-linear-gradient(#2982f7,#74acf5 100%) ;
+  color: white;
+  border-radius: 20px;
+} */
+
+.form-control {
+  background-color: transparent;
+  width: 100%;
+  height: 38px;
+  border-radius: 0;
+  font-size: 14px;
+  font-style: italic;
+  color: #536174;
+  margin-bottom: 30px;
+  font-weight: 500;
+  padding: 0 15px;
+  border: 2px solid #536174;
+}
+
+.form-control:hover,
+.form-control:focus {
+  background-color: transparent;
+  box-shadow: none;
+}
+
+textarea {
+  width: 100%;
+  height: 100px !important;
+  padding: 20px;
+}
+
+.nice-select {
+  line-height: 34px;
+}
+
+.nice-select .list {
+  left: 0 !important;
+  right: 0 !important;
+  border-radius: 0;
+}
+
+.medilife-book-an-appoinment-area {
+  position: relative;
+  z-index: 1;
+  margin-top: -65px;
+}
+
+.medilife-book-an-appoinment-area .appointment-form-content {
+  background:-webkit-linear-gradient(#081f3e,#25518a 100%) ;
+  /* background-color: #081f3e; */
+}
+
+.medilife-book-an-appoinment-area .medilife-appointment-form {
+  background:-webkit-linear-gradient(#081f3e,#25518a 100%) ;
+  /* background-color: #081f3e; */
+  padding: 60px 50px;
+}
+
+.medilife-book-an-appoinment-area .medilife-appointment-form select {
+  border: 2px solid #536174;
+  background-color: transparent;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .medilife-book-an-appoinment-area .medilife-appointment-form {
+    padding: 40px 30px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .medilife-book-an-appoinment-area .medilife-appointment-form {
+    padding: 30px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .medilife-book-an-appoinment-area .medilife-appointment-form button[type=submit] {
+    margin-top: 15px;
+  }
+}
+
+.medilife-book-an-appoinment-area .medilife-contact-info {
+  padding: 30px;
+  /* background-color: #006cff; */
+  background:-webkit-linear-gradient(#2982f7,#74acf5 100%) ;
+
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .medilife-book-an-appoinment-area .medilife-contact-info {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding-bottom: 0;
+  }
+}
+
+.single-contact-info img {
+  margin-bottom: 15px;
+}
+
+.single-contact-info p {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+
+.gradient-custom {
+
+  background: grey;
+  background-image: url(img/bgsignup.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+.card-registration .select-input.form-control[readonly]:not([disabled]) {
+  font-size: 1rem;
+  line-height: 2.15;
+  padding-left: .75em;
+  padding-right: .75em;
+}
+
+.card-registration .select-arrow {
+  top: 13px;
+}
+
+.form-outline input {
+  border-radius: 30px;
+}
