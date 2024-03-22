@@ -36,3 +36,18 @@ Clinic On aims to:
 
 # Conclusion
 With Clinic On - Hospital Management Platform, we're not just solving problems; we're shaping the future of healthcare management, one innovative solution at a time. Welcome to the future of hospital management with Clinic On!
+
+
+# Some Visuals
+
+
+
+# Home Page
+![Home Page](https://github.com/jalagrawal/Clinic-on-Hospital-Management/blob/main/Screenshot%20(199).png)
+
+
+# Online Appointment Page
+![Appointment Page](https://github.com/jalagrawal/Clinic-on-Hospital-Management/blob/main/Screenshot%20(200).png)
+
+# Patient Login Page
+![Patient Login Page](https://github.com/jalagrawal/Clinic-on-Hospital-Management/blob/main/Screenshot%20(201).png)
